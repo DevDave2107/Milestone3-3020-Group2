@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Poppins:wght@300;700&display=swap');
+
+/* Used For All Pages */
+
+:root {
+    --font-family: 'Poppins', sans-serif;
+    --font-accent: 'Noto Serif', serif;
+
+    --color-bg: rgb(255, 255, 255);
+    --color-accent: rgb(41, 204, 0);
+   
+}
+
+* {
+    user-select: none;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body{
+    background: var(--color-bg);
+    font-family: var(--font-family);
+}
+
+a{
+    color: unset;
+    text-decoration: none;
+}
+
+.section__padding{
+    padding: 4rem 6rem;
+
+}
+
+/* NAVBAR */
+.navbar{
+    position: sticky;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+    padding: 2rem;
+    margin-bottom: 1rem;
+
+    background: var(--color-accent);
+}
+
+/* SECTION WRAPPERS */
+.Wrapper{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+
+.Wrapper-col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.Wrapper__carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60vw;
+    height: 500px;
+    background-color: rgb(212, 211, 211);
+}
+
+/* SECTION BREAK */
+.section__break{
+    display: flex;
+    justify-content: center;
+    width: 50rem;
+    height: 3px;
+    background-color: black;
+}
+
+/* SCROLLABLE */
+.Wrapper__scrollable{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scroll-snap-type: x proximity;
+    scroll-behavior: smooth;
+    
+
+    background-color: rgb(212, 211, 211);
+}
+
+.Wrapper__scrollable-image{
+    user-select: none;
+    scroll-snap-align: center;
+    flex: 0 0 auto;
+    width: 400px;
+    height: 150px;
+    margin: 1rem;
+    background-color: rgb(94, 94, 94);
+}
+
+
+
+@media screen and (max-width: 550px) {
+    .section__padding{
+        padding: 4rem 2rem;
+
+    }
+
+    .section__margin{
+        margin: 4rem 2rem;
+    }
+    
+}
