@@ -1,0 +1,55 @@
+{
+    "Recipes":[
+        {
+            "name":"Bacon Wrapped Hotdogs",
+            "ingredients":[
+                "Hotdogs",
+                "Buns",
+                "Bacon"
+            ],
+            "image":"sources/HotDogs.jpg",
+            "servings":"2",
+            "instructions":"This is how you make a bacon wrapped hotdog"
+    
+        },
+        {
+            "name": "Burger",
+            "ingredients":[
+                "Buns",
+                "Beef Patty",
+                "Lettuce",
+                "Ketchup",
+                "Lettuce",
+                "Tomatos"
+            ],
+            "image":"sources/Burger.jpg",
+            "servings": "5",
+            "instructions": "This is how you make a burger"
+        },
+        {
+            "name": "Chicken Noodle Soup",
+            "ingredients":[
+                "Chicken",
+                "Noodles",
+                "Onions" 
+            ],
+            "image":"./sources/ChickenNoodleSoup.jpg",
+            "servings": "5",
+            "instructions": "This is how you make Chicken Noodle Soup"
+            
+        },
+        {
+            "name": "Spaghetti",
+            "ingredients":[
+                "Spaghetti Noodles",
+                "Spaghetti Sauce",
+                "Beef" 
+            ],
+            "image":"sources/Spaghetti.jpg",
+            "servings": "5",
+            "instructions": "This is how you make Spaghetti"
+        }
+
+    ]
+    
+}

@@ -53,6 +53,7 @@ a{
 .Wrapper{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     width: 100vw;
 }
 
@@ -104,6 +105,46 @@ a{
     margin: 1rem;
     background-color: rgb(94, 94, 94);
 }
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+    transition: ease 0.3s;
+    border-radius: 38px;
+    width: 35vw;
+    background: rgb(190, 190, 190);
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.card img{
+    width: 100%;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 38px; 
+    
+}
+
+.card:hover{
+    scale: 1.01;
+}
+
+
+
+.card-header{
+    text-align: center;
+}
+
+.card-body{
+    background: white;
+    width: 100%;
+    border-radius: 38px;
+    padding: 1rem 1rem 3rem 3rem;
+}
+
 
 
 
