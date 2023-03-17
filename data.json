@@ -50,6 +50,13 @@
             "instructions": "This is how you make Spaghetti"
         }
 
+    ],
+    "Ingredients":[
+        {
+            "name": "lettuce",
+            "price": "1.99"
+        }
+
     ]
     
 }

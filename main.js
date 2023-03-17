@@ -6,7 +6,7 @@ import data from './data.json' assert { type: 'json' };
 
 var recipes = [];
 for(var i =0; i<data.Recipes.length; i++){
-    recipes.push(data.Recipes[i]);
+    recipes.push(data.recipes[i]);
 }
     
     
