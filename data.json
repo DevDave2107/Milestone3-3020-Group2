@@ -1,0 +1,294 @@
+{
+    "Pork": [
+      {
+        "name": "Bacon Wrapped Hotdogs",
+        "ingredients": [
+          "4 (2 ounce) Hotdogs",
+          "2 large hotdog Buns",
+          "4 slices cold center cut Bacon"
+        ],
+        "steps": [
+          "Preheat your grill or oven to medium-high heat.",
+          "Take a slice of bacon and wrap it around a hotdog, starting at one end and wrapping it all the way to the other end. Repeat with remaining hotdogs.",
+          "Place the bacon-wrapped hotdogs on the grill or on a baking sheet in the oven.",
+          "Cook the hotdogs for about 10-12 minutes, or until the bacon is crispy and the hotdogs are heated through.",
+          "Once cooked, remove the hotdogs from the grill or oven and let them cool for a few minutes.",
+          "Serve the hotdogs in buns with your favorite condiments."
+        ],
+        "image": "./sources/HotDogs.jpg",
+        "servings": "2",
+        "id": "2",
+        "instructions": "This is how you make a bacon wrapped hotdog",
+        "description": "This is a Bacon Wrapped Hotdogs",
+        "quantity": 3,
+        "price": 0.99
+      },
+      {
+        "name": "Burger",
+        "ingredients": [
+          "Buns",
+          "Beef Patty",
+          "Lettuce",
+          "Ketchup",
+          "Lettuce",
+          "Tomatos"
+        ],
+        "image": "./sources/Burger.jpg",
+        "servings": "5",
+        "id": "4",
+        "instructions": "This is how you make a burger",
+        "description": "This is a Burger",
+        "quantity": 2,
+        "price": 1.99
+      },
+      {
+        "name": "Chicken Noodle Soup",
+        "ingredients": [
+          "Chicken",
+          "Noodles",
+          "Onions"
+        ],
+        "image": "./sources/ChickenNoodleSoup.jpg",
+        "servings": "5",
+        "id": "1",
+        "instructions": "This is how you make Chicken Noodle Soup",
+        "description": "This is Chicken Noodle Soup",
+        "quantity": 5,
+        "price": 4.0
+      },
+      {
+        "name": "Spaghetti",
+        "ingredients": [
+          "Spaghetti Noodles",
+          "Spaghetti Sauce",
+          "Beef"
+        ],
+        "image": "./sources/Spaghetti.jpg",
+        "servings": "5",
+        "id": "3",
+        "instructions": "This is how you make Spaghetti",
+        "description": "This is a Spaghetti",
+        "quantity": 1.5,
+        "price": 0.5
+      }
+    ],
+    "Chicken": [
+        {
+          "name": "Bacon Wrapped Hotdogs",
+          "ingredients": [
+            "4 (2 ounce) Hotdogs",
+            "2 large hotdog Buns",
+            "4 slices cold center cut Bacon"
+          ],
+          "steps": [
+            "Preheat your grill or oven to medium-high heat.",
+            "Take a slice of bacon and wrap it around a hotdog, starting at one end and wrapping it all the way to the other end. Repeat with remaining hotdogs.",
+            "Place the bacon-wrapped hotdogs on the grill or on a baking sheet in the oven.",
+            "Cook the hotdogs for about 10-12 minutes, or until the bacon is crispy and the hotdogs are heated through.",
+            "Once cooked, remove the hotdogs from the grill or oven and let them cool for a few minutes.",
+            "Serve the hotdogs in buns with your favorite condiments."
+          ],
+          "image": "./sources/HotDogs.jpg",
+          "servings": "2",
+          "id": "2",
+          "instructions": "This is how you make a bacon wrapped hotdog",
+          "description": "This is a Bacon Wrapped Hotdogs",
+          "quantity": 3,
+          "price": 0.99
+        },
+        {
+          "name": "Burger",
+          "ingredients": [
+            "Buns",
+            "Beef Patty",
+            "Lettuce",
+            "Ketchup",
+            "Lettuce",
+            "Tomatos"
+          ],
+          "image": "./sources/Burger.jpg",
+          "servings": "5",
+          "id": "4",
+          "instructions": "This is how you make a burger",
+          "description": "This is a Burger",
+          "quantity": 2,
+          "price": 1.99
+        },
+        {
+          "name": "Chicken Noodle Soup",
+          "ingredients": [
+            "Chicken",
+            "Noodles",
+            "Onions"
+          ],
+          "image": "./sources/ChickenNoodleSoup.jpg",
+          "servings": "5",
+          "id": "1",
+          "instructions": "This is how you make Chicken Noodle Soup",
+          "description": "This is Chicken Noodle Soup",
+          "quantity": 5,
+          "price": 4.0
+        },
+        {
+          "name": "Spaghetti",
+          "ingredients": [
+            "Spaghetti Noodles",
+            "Spaghetti Sauce",
+            "Beef"
+          ],
+          "image": "./sources/Spaghetti.jpg",
+          "servings": "5",
+          "id": "3",
+          "instructions": "This is how you make Spaghetti",
+          "description": "This is a Spaghetti",
+          "quantity": 1.5,
+          "price": 0.5
+        }
+      ],
+      "Beef": [
+        {
+          "name": "Bacon Wrapped Hotdogs",
+          "ingredients": [
+            "4 (2 ounce) Hotdogs",
+            "2 large hotdog Buns",
+            "4 slices cold center cut Bacon"
+          ],
+          "steps": [
+            "Preheat your grill or oven to medium-high heat.",
+            "Take a slice of bacon and wrap it around a hotdog, starting at one end and wrapping it all the way to the other end. Repeat with remaining hotdogs.",
+            "Place the bacon-wrapped hotdogs on the grill or on a baking sheet in the oven.",
+            "Cook the hotdogs for about 10-12 minutes, or until the bacon is crispy and the hotdogs are heated through.",
+            "Once cooked, remove the hotdogs from the grill or oven and let them cool for a few minutes.",
+            "Serve the hotdogs in buns with your favorite condiments."
+          ],
+          "image": "./sources/HotDogs.jpg",
+          "servings": "2",
+          "id": "2",
+          "instructions": "This is how you make a bacon wrapped hotdog",
+          "description": "This is a Bacon Wrapped Hotdogs",
+          "quantity": 3,
+          "price": 0.99
+        },
+        {
+          "name": "Burger",
+          "ingredients": [
+            "Buns",
+            "Beef Patty",
+            "Lettuce",
+            "Ketchup",
+            "Lettuce",
+            "Tomatos"
+          ],
+          "image": "./sources/Burger.jpg",
+          "servings": "5",
+          "id": "4",
+          "instructions": "This is how you make a burger",
+          "description": "This is a Burger",
+          "quantity": 2,
+          "price": 1.99
+        },
+        {
+          "name": "Chicken Noodle Soup",
+          "ingredients": [
+            "Chicken",
+            "Noodles",
+            "Onions"
+          ],
+          "image": "./sources/ChickenNoodleSoup.jpg",
+          "servings": "5",
+          "id": "1",
+          "instructions": "This is how you make Chicken Noodle Soup",
+          "description": "This is Chicken Noodle Soup",
+          "quantity": 5,
+          "price": 4.0
+        },
+        {
+          "name": "Spaghetti",
+          "ingredients": [
+            "Spaghetti Noodles",
+            "Spaghetti Sauce",
+            "Beef"
+          ],
+          "image": "./sources/Spaghetti.jpg",
+          "servings": "5",
+          "id": "3",
+          "instructions": "This is how you make Spaghetti",
+          "description": "This is a Spaghetti",
+          "quantity": 1.5,
+          "price": 0.5
+        }
+      ],
+      "Veggie": [
+        {
+          "name": "Bacon Wrapped Hotdogs",
+          "ingredients": [
+            "4 (2 ounce) Hotdogs",
+            "2 large hotdog Buns",
+            "4 slices cold center cut Bacon"
+          ],
+          "steps": [
+            "Preheat your grill or oven to medium-high heat.",
+            "Take a slice of bacon and wrap it around a hotdog, starting at one end and wrapping it all the way to the other end. Repeat with remaining hotdogs.",
+            "Place the bacon-wrapped hotdogs on the grill or on a baking sheet in the oven.",
+            "Cook the hotdogs for about 10-12 minutes, or until the bacon is crispy and the hotdogs are heated through.",
+            "Once cooked, remove the hotdogs from the grill or oven and let them cool for a few minutes.",
+            "Serve the hotdogs in buns with your favorite condiments."
+          ],
+          "image": "./sources/HotDogs.jpg",
+          "servings": "2",
+          "id": "2",
+          "instructions": "This is how you make a bacon wrapped hotdog",
+          "description": "This is a Bacon Wrapped Hotdogs",
+          "quantity": 3,
+          "price": 0.99
+        },
+        {
+          "name": "Burger",
+          "ingredients": [
+            "Buns",
+            "Beef Patty",
+            "Lettuce",
+            "Ketchup",
+            "Lettuce",
+            "Tomatos"
+          ],
+          "image": "./sources/Burger.jpg",
+          "servings": "5",
+          "id": "4",
+          "instructions": "This is how you make a burger",
+          "description": "This is a Burger",
+          "quantity": 2,
+          "price": 1.99
+        },
+        {
+          "name": "Chicken Noodle Soup",
+          "ingredients": [
+            "Chicken",
+            "Noodles",
+            "Onions"
+          ],
+          "image": "./sources/ChickenNoodleSoup.jpg",
+          "servings": "5",
+          "id": "1",
+          "instructions": "This is how you make Chicken Noodle Soup",
+          "description": "This is Chicken Noodle Soup",
+          "quantity": 5,
+          "price": 4.0
+        },
+        {
+          "name": "Spaghetti",
+          "ingredients": [
+            "Spaghetti Noodles",
+            "Spaghetti Sauce",
+            "Beef"
+          ],
+          "image": "./sources/Spaghetti.jpg",
+          "servings": "5",
+          "id": "3",
+          "instructions": "This is how you make Spaghetti",
+          "description": "This is a Spaghetti",
+          "quantity": 1.5,
+          "price": 0.5
+        }
+      ]
+  }
